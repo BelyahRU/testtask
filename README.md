@@ -11,5 +11,5 @@
 ![]()
 ![]()
 ![]()
+<img src="[](https://github.com/BelyahRU/testtask/assets/93776512/18127ed1-b9dd-4019-957b-b3e17af8bb77.gif)" width="196.5" height="426" />
 
-![](https://github.com/BelyahRU/testtask/assets/93776512/18127ed1-b9dd-4019-957b-b3e17af8bb77.gif)
